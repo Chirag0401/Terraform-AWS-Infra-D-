@@ -1,0 +1,5 @@
+# terraform folder
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.log
